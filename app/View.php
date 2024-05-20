@@ -1,5 +1,8 @@
 <?php
 
+namespace App;
+
+
 class View
 {
   protected $template; //nom du fichier template de la view, par défaut ce sera template.php
