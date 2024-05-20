@@ -15,4 +15,9 @@
 
   <header>
     <h1>PHP - MVC</h1>
+    <nav><ul>
+      <li><a href="<?= BASE_URL ?>">Home</a></li>
+      <li><a href="<?= BASE_URL ?>articles">Articles</a></li>
+      <li><a href="<?= BASE_URL ?>newsletter">Newsletter</a></li>
+    </ul></nav>
   </header>
