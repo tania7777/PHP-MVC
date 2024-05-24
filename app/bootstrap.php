@@ -1,4 +1,5 @@
 <?php
+include_once 'autoload.php';
 
 /**
  * TOUT LE CODE CONTENU DANS LES BALISES <?php et ?>
